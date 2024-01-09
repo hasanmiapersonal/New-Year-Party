@@ -1,0 +1,71 @@
+.header{
+    width: 1320px;
+    height: 600px;
+    background-image: url(Banner\ Image.png);
+}
+.text-title{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.about{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+.new{
+    background-image: url(image/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+
+}
+.new.text-titles.h1{
+    width: 642px;
+
+}
+.image{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.image .new-year{
+    width: 319.83px;
+}
+.image-new{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+main.section-box{
+    background-image:url(../image/Rectangle 2.png") ;
+    border-radius: 16px 0px 16px 16px;
+    background: #F00;
+
+    
+}
+
+.Photo{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Photo img{
+    width: 424px;
+    height: 450px;
+    border-radius: 13px;
+    cursor: pointer;
+    margin: 10px;
+    transition: 400ms;
+}
+.photo img:hover{
+    border-radius: 16px;
+    background-image: url()
+footer{
+    width: 1600px;
+    height: 609px;
+    display: flex;
+    background: #070211;
+}
